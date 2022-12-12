@@ -2354,6 +2354,11 @@ queue-microtask@^1.2.2:
   resolved "https://registry.yarnpkg.com/queue-microtask/-/queue-microtask-1.2.3.tgz#4929228bbc724dfac43e0efb058caf7b6cfb6243"
   integrity sha512-NuaNSa6flKT5JaSYQzJok04JzTL1CA6aGhv5rfLW3PgqA+M2ChpZQnAC8h8i4ZFkBS8X5RqkDBHA7r4hej3K9A==
 
+react-back-to-top-progress-indicator@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/react-back-to-top-progress-indicator/-/react-back-to-top-progress-indicator-0.1.0.tgz#b8f2cb00543069469375426408532135aef5d6de"
+  integrity sha512-fw8V1qHrRWgbA9jZFqVlu//83MbjdaaYRjnSOSwKGvKzeZE+kGlCD3qKwPXe0yX2z3PNsTrv2Gf/iRl4gbo0SQ==
+
 react-dom@^18.2.0:
   version "18.2.0"
   resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-18.2.0.tgz#22aaf38708db2674ed9ada224ca4aa708d821e3d"

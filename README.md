@@ -3,7 +3,8 @@
 [![NPM version][npm-image]][npm-url]
 [![Build][github-build]][github-build-url]
 ![npm-typescript]
-![License][github-license]][github-license-url]
+
+[![License][github-license]][github-license-url]
 
 A lightweight button component that scrolls to the top of a page when pressed with a page progress indicator
 The button is only visible once a certain height has been reached on the page with smooth animation

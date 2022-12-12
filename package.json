@@ -1,6 +1,6 @@
 {
   "name": "react-back-to-top-progress-indicator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A React component that allow you to add Back to Top button with progress indicator",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
